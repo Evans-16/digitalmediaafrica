@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/digitalmediaafrica/static/css/main.c5f27474.css",
-    "main.js": "/digitalmediaafrica/static/js/main.5d4a638c.js",
+    "main.js": "/digitalmediaafrica/static/js/main.69b6041a.js",
     "static/js/453.dcef0336.chunk.js": "/digitalmediaafrica/static/js/453.dcef0336.chunk.js",
     "static/media/Asset 1.jpg": "/digitalmediaafrica/static/media/Asset 1.9fb217523d91caf1cc3a.jpg",
     "static/media/slick.svg": "/digitalmediaafrica/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/digitalmediaafrica/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/digitalmediaafrica/index.html",
     "main.c5f27474.css.map": "/digitalmediaafrica/static/css/main.c5f27474.css.map",
-    "main.5d4a638c.js.map": "/digitalmediaafrica/static/js/main.5d4a638c.js.map",
+    "main.69b6041a.js.map": "/digitalmediaafrica/static/js/main.69b6041a.js.map",
     "453.dcef0336.chunk.js.map": "/digitalmediaafrica/static/js/453.dcef0336.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5f27474.css",
-    "static/js/main.5d4a638c.js"
+    "static/js/main.69b6041a.js"
   ]
 }
