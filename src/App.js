@@ -14,7 +14,7 @@ import FAQs from './components/FAQs/FAQs';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/digitalmediaafrica">
       <div className="App">
         <Header />
         <main>
